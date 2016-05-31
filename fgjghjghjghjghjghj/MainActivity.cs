@@ -8,6 +8,7 @@ namespace fgjghjghjghjghjghj
 	public class MainActivity : Activity
 	{
 		int count = 1;
+		int i = 1;
 
 		protected override void OnCreate(Bundle savedInstanceState)
 		{
